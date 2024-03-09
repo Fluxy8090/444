@@ -1,0 +1,15 @@
+D:\prog\proe\444\444\bin\Debug\net8.0\444.exe
+D:\prog\proe\444\444\bin\Debug\net8.0\444.deps.json
+D:\prog\proe\444\444\bin\Debug\net8.0\444.runtimeconfig.json
+D:\prog\proe\444\444\bin\Debug\net8.0\444.dll
+D:\prog\proe\444\444\bin\Debug\net8.0\444.pdb
+D:\prog\proe\444\444\obj\Debug\net8.0\444.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\proe\444\444\obj\Debug\net8.0\444.AssemblyInfoInputs.cache
+D:\prog\proe\444\444\obj\Debug\net8.0\444.AssemblyInfo.cs
+D:\prog\proe\444\444\obj\Debug\net8.0\444.csproj.CoreCompileInputs.cache
+D:\prog\proe\444\444\obj\Debug\net8.0\444.sourcelink.json
+D:\prog\proe\444\444\obj\Debug\net8.0\444.dll
+D:\prog\proe\444\444\obj\Debug\net8.0\refint\444.dll
+D:\prog\proe\444\444\obj\Debug\net8.0\444.pdb
+D:\prog\proe\444\444\obj\Debug\net8.0\444.genruntimeconfig.cache
+D:\prog\proe\444\444\obj\Debug\net8.0\ref\444.dll
